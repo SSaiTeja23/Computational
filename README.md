@@ -1,4 +1,4 @@
-# Computational
+# Measuring attitudes towards COVID-19 based on large scale social media analysis
 
 Steps for Execution (Order Of Execution)::<br/>
 1.Tweet Extraction<br/>
